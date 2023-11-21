@@ -24,7 +24,21 @@ You may also see any lint errors in the console.
 ### tutorial
 ![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/c74d92c9-ad34-4998-9aaa-2953a26ebc45)
 
+you can add course and TA from the list that you have saved,add date and time that you want to schedule for lecture
 
+![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/019d3512-453d-42ab-9c41-d740cc15a8f5)
+
+
+![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/8e132625-e411-42a5-95f3-46f130739041)
+you can view the scheduled lecture and TA details in Agenda section
+
+![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/0ea144a9-83b8-4670-a8af-47e2a077efa5)
+
+you can add TAs with their personal details
+
+![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/752a5bdd-373f-46bc-9351-02a165bf0335)
+
+you can add courses 
 
 
 
