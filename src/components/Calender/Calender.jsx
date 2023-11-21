@@ -25,18 +25,14 @@ const locales = {
   
   const events = [
   
-  
   ];
   
 const Calender = () => {
   const [newEvent, setNewEvent] = useState({ title:[], start: "", end: "" });
   const [allEvents, setAllEvents] = useState(events);
-  const [value,setValue]=useState("")
-
-
-  console.log(newEvent)
   
-  console.log(value)
+
+  
   function handleAddEvent() {  
     
     setAllEvents([...allEvents, newEvent]);
