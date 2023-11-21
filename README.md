@@ -1,3 +1,10 @@
+# project
+Admin Scheduler app
+
+# description
+
+this project lets you schedule lectures along with specific course with date and time. It also allows you to Add courses as well  as Teaching Assitants.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +20,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### tutorial
+![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/c74d92c9-ad34-4998-9aaa-2953a26ebc45)
+
+
+
+
 
 ### `npm test`
 
