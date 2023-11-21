@@ -27,7 +27,7 @@ You may also see any lint errors in the console.
 you can add course and TA from the list that you have saved,add date and time that you want to schedule for lecture
 
 ![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/019d3512-453d-42ab-9c41-d740cc15a8f5)
-
+You Can View Your scheduled lectures on the Calender with three different views , month,week,day 
 
 ![image](https://github.com/Kpm99/Review-Test-Assignment/assets/94966096/8e132625-e411-42a5-95f3-46f130739041)
 you can view the scheduled lecture and TA details in Agenda section
